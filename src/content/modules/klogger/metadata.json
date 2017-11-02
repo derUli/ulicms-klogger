@@ -1,0 +1,8 @@
+{
+	"source": "extend",
+	"version": "1.2.1",
+	"embed": false,
+	"objects": {
+		"KLogger": "autoload.php"
+	}
+}

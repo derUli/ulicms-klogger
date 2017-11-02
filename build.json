@@ -1,0 +1,9 @@
+{
+	"id": "block_ie6",
+	"version": "1.0",
+	"description": "Block Internet Explorer 6.0",
+	"categories": [
+		"security"
+	],
+	"compatible_from": "2017.4"
+}
