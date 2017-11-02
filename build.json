@@ -1,9 +1,9 @@
 {
-	"id": "block_ie6",
-	"version": "1.0",
-	"description": "Block Internet Explorer 6.0",
+	"id": "klogger",
+	"version": "1.2.1",
+	"description": "Simple Logging for PHP",
 	"categories": [
-		"security"
+		"development"
 	],
 	"compatible_from": "2017.4"
 }
